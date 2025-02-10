@@ -1,3 +1,5 @@
 Name: [Jonas Palima]
+
 Course: [BSIT]
+
 Interests in programming: [Python]
